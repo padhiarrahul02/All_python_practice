@@ -49,9 +49,9 @@ for _ in range(n):
     print(a, end=" ")
     a, b = b, a + b"""
 
-#Student Management Ststem(CLI)
+#Student Management System(CLI)
 
-print("(:: Welcome to the Student Management System ::)")
+"""print("(:: Welcome to the Student Management System ::)")
 
 
 students = []
@@ -84,4 +84,13 @@ while True:
      print("Exiting the system. Goodbye!")
      break
     else:
-     print("Invalid choice. Please try again.")
+     print("Invalid choice. Please try again.")"""
+
+
+
+
+
+
+
+
+     
